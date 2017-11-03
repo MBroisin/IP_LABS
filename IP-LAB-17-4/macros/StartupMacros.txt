@@ -1,0 +1,3 @@
+macro "AutoRun" { 
+	run("Student Interface");
+}

@@ -1,0 +1,143 @@
+10:17:54: Launch IPLAB Developer Tools
+10:17:54: Backup Code.java files at 10-17-54
+10:17:54: Load Code.java
+10:17:54: Found 12 methods in Code.class
+10:17:54: Update Client 10:17:54 (192.168.56.1)
+10:22:54: Backup Code.java files at 10-22-54
+10:26:12: Start Plot Kernel 2D (None)
+10:26:39: Start Plot Kernel 2D (None)
+10:26:51: Start Plot Kernel 2D (None)
+10:27:26: Start Plot Kernel 2D (None)
+10:27:50: Start Plot Kernel 2D (Mask (0, 0))
+10:27:54: Backup Code.java files at 10-27-54
+10:28:32: Start Plot Kernel 2D (None)
+10:29:22: Start Plot Kernel 2D (None)
+10:29:28: Start Plot Kernel 2D (None)
+10:29:43: Start Plot Kernel 2D (None)
+10:30:08: Start Plot Kernel 2D (Mask (1, 0))
+10:30:35: Start Plot Kernel 2D (Mask (1, 1))
+10:31:59: Start Plot Kernel 2D (Mask (0, 2))
+10:32:54: Backup Code.java files at 10-32-54
+10:37:54: Backup Code.java files at 10-37-54
+10:42:54: Backup Code.java files at 10-42-54
+10:45:41: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\eiffel.tif
+10:45:57: Start Correlate Kernel 2D (eiffel.tif)
+10:46:41: Start Correlate Kernel 2D (eiffel.tif)
+10:47:11: Start Correlate Kernel 2D (eiffel.tif)
+10:47:39: Start Correlate Kernel 2D (eiffel.tif)
+10:47:54: Backup Code.java files at 10-47-54
+10:50:56: Start Correlate Kernel 2D (eiffel.tif)
+10:52:54: Backup Code.java files at 10-52-54
+10:56:59: Start Detect Spots (eiffel.tif)
+10:57:01: Start Detect Vertical Edges (eiffel.tif)
+10:57:54: Backup Code.java files at 10-57-54
+10:59:09: Start Detect Vertical Edges (eiffel.tif)
+11:02:54: Backup Code.java files at 11-02-54
+11:04:21: Start Detect Vertical Edges (eiffel.tif)
+11:05:33: Start Detect Vertical Edges (eiffel.tif)
+11:07:34: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\eiffel.tif
+11:07:37: Start Correlate Kernel 2D (eiffel.tif)
+11:07:54: Backup Code.java files at 11-07-54
+11:12:54: Backup Code.java files at 11-12-54
+11:17:54: Backup Code.java files at 11-17-54
+11:22:54: Backup Code.java files at 11-22-54
+11:27:54: Backup Code.java files at 11-27-54
+11:28:17: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\logitech-recorded-at-EPFL-CO.tif
+11:28:34: Start Features Gradient (logitech-recorded-at-EPFL-CO.tif)
+11:28:37: Exception in Features_Gradient :java.lang.NullPointerException
+11:29:14: Start Features Gradient (logitech-recorded-at-EPFL-CO.tif)
+11:29:17: Exception in Features_Gradient :java.lang.NullPointerException
+11:29:26: Start Features Gradient (logitech-recorded-at-EPFL-CO.tif)
+11:29:28: Exception in Features_Gradient :java.lang.NullPointerException
+11:30:51: Start Features Gradient (logitech-recorded-at-EPFL-CO.tif)
+11:31:01: Exception in Features_Gradient :java.lang.NullPointerException
+11:32:54: Backup Code.java files at 11-32-54
+11:33:45: Start Detect Vertical Edges (logitech-recorded-at-EPFL-CO.tif)
+11:33:48: Start Features Gradient (logitech-recorded-at-EPFL-CO.tif)
+11:35:04: Start Features Gradient (logitech-recorded-at-EPFL-CO.tif)
+11:37:54: Backup Code.java files at 11-37-54
+11:42:54: Backup Code.java files at 11-42-54
+11:47:14: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\bikesgray.tif
+11:47:18: Start Detect Edges (bikesgray.tif)
+11:47:42: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\bikesgray.tif
+11:47:46: Start Detect Edges (bikesgray.tif)
+11:47:54: Backup Code.java files at 11-47-54
+11:48:07: Start Detect Edges (bikesgray.tif)
+11:49:00: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\bikesgray.tif
+11:49:02: Start Detect Edges (bikesgray.tif)
+11:49:22: Start Detect Edges (None)
+11:49:22: Exception in Detect_Edges :java.lang.NullPointerException
+11:49:24: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\bikesgray.tif
+11:49:26: Start Detect Edges (bikesgray.tif)
+11:49:41: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\bikesgray.tif
+11:49:42: Start Detect Edges (bikesgray.tif)
+11:49:58: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\bikesgray.tif
+11:50:02: Start Detect Edges (bikesgray.tif)
+11:50:41: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\bikesgray.tif
+11:50:48: Start Detect Edges (bikesgray.tif)
+11:51:07: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\bikesgray.tif
+11:51:09: Start Detect Edges (bikesgray.tif)
+11:52:54: Backup Code.java files at 11-52-54
+11:57:54: Backup Code.java files at 11-57-54
+12:02:54: Backup Code.java files at 12-02-54
+12:05:26: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\bikesgray.tif
+12:05:28: Start Detect Edges (bikesgray.tif)
+12:05:45: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\bikesgray.tif
+12:05:47: Start Detect Edges (bikesgray.tif)
+12:07:54: Backup Code.java files at 12-07-54
+12:12:54: Backup Code.java files at 12-12-54
+12:17:54: Backup Code.java files at 12-17-54
+12:19:59: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\logitech-recorded-at-EPFL-CO.tif
+12:20:08: Start Features Hessian (logitech-recorded-at-EPFL-CO.tif)
+12:21:44: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\fundus.tif
+12:21:47: Start Detect Ridges (fundus.tif)
+12:21:59: Start Detect Ridges (fundus.tif)
+12:22:10: Start Detect Ridges (fundus.tif)
+12:22:15: Start Detect Ridges (NMS)
+12:22:19: Start Detect Ridges (fundus.tif)
+12:22:42: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\fundus.tif
+12:22:45: Start Detect Ridges (fundus.tif)
+12:22:54: Backup Code.java files at 12-22-54
+12:23:05: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\fundus.tif
+12:23:07: Start Detect Ridges (fundus.tif)
+12:23:29: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\fundus.tif
+12:23:31: Start Detect Ridges (fundus.tif)
+12:23:52: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\fundus.tif
+12:23:54: Start Detect Ridges (fundus.tif)
+12:25:22: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\fundus.tif
+12:25:24: Start Detect Ridges (fundus.tif)
+12:25:40: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\fundus.tif
+12:25:42: Start Detect Ridges (fundus.tif)
+12:26:54: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\bikesgray.tif
+12:26:57: Start Detect Edges (bikesgray.tif)
+12:27:54: Backup Code.java files at 12-27-54
+12:32:54: Backup Code.java files at 12-32-54
+12:36:31: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\microarray.tif
+12:36:37: Start Detect Spots (microarray.tif)
+12:36:52: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\microarray.tif
+12:36:54: Start Detect Spots (microarray.tif)
+12:37:10: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\microarray.tif
+12:37:11: Start Detect Spots (microarray.tif)
+12:37:20: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\microarray.tif
+12:37:23: Start Detect Spots (microarray.tif)
+12:37:54: Backup Code.java files at 12-37-54
+12:38:11: Open image: C:\Users\broisin\Desktop\IP-LAB-17-4\images\microarray.tif
+12:38:12: Start Detect Ridges (microarray.tif)
+12:38:15: Start Detect Spots (microarray.tif)
+12:39:57: Update Client 12:39:57 (192.168.56.1)
+12:40:20: Upload C:\Users\broisin\Desktop\IP-LAB-17-4\plugins\src\Code.java on matthieu.broisin@epfl.ch 192.168.56.1
+12:40:20: Upload C:\Users\broisin\Desktop\IP-LAB-17-4\report.doc on matthieu.broisin@epfl.ch 192.168.56.1
+12:40:20: Upload C:\Users\broisin\Desktop\IP-LAB-17-4\history.txt on matthieu.broisin@epfl.ch 192.168.56.1
+12:40:20: Check Server 12:40:20 (128.178.130.216) 
+
+12:40:20: Upload on matthieu.broisin@epfl.ch 192.168.56.1
+12:40:24: Open URL
+12:40:38: Open URL
+21:12:59: Launch IPLAB Developer Tools
+21:13:00: Backup Code.java files at 09-13-00
+21:13:00: Load Code.java
+21:13:01: Found 12 methods in Code.class
+21:13:01: Update Client 09:13:01 (192.168.56.1)
+21:13:15: Open image: \\files7\data\broisin\My Documents\MTMA2\IP-LAB-17-4\images\eiffel.tif
+21:13:20: Open image: \\files7\data\broisin\My Documents\MTMA2\IP-LAB-17-4\images\fundus.tif
+21:13:23: Start Detect Edges (fundus.tif)

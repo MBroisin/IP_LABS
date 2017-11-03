@@ -1,0 +1,171 @@
+10:27:31: Launch IPLAB Developer Tools
+10:27:31: Backup Code.java files at 10-27-31
+10:27:32: Load Code.java
+10:27:32: Found 17 methods in Code.class
+10:27:32: Update Client 10:27:32 (192.168.56.1)
+10:27:46: Open image: C:\Users\broisin\Desktop\IP-LAB-6\images\lena.tif
+10:27:54: Start Test Convolution (lena.tif)
+10:29:52: Start Test Convolution (lena.tif)
+10:31:44: Start Test Convolution (lena.tif)
+10:31:57: Open image: C:\Users\broisin\Desktop\IP-LAB-6\images\impulse.tif
+10:32:00: Start Test Convolution (impulse.tif)
+10:32:31: Backup Code.java files at 10-32-31
+10:33:20: Start Test Convolution (impulse.tif)
+10:34:14: Start Test Convolution (impulse.tif)
+10:36:57: Start Test Convolution (impulse.tif)
+10:37:31: Backup Code.java files at 10-37-31
+10:39:39: Start Test Convolution (impulse.tif)
+10:41:26: Start Test Convolution (impulse.tif)
+10:42:31: Backup Code.java files at 10-42-31
+10:42:47: Start Test Convolution (impulse.tif)
+10:43:07: Start Test Convolution (lena.tif)
+10:47:31: Backup Code.java files at 10-47-31
+10:52:03: Start Test Scaling Filter (impulse.tif)
+10:52:23: Start Test Scaling Filter (impulse.tif)
+10:52:31: Backup Code.java files at 10-52-31
+10:52:35: Start Test Scaling Filter (impulse.tif)
+10:52:43: Start Test Scaling Filter (impulse.tif)
+10:55:44: Start Test Scaling Filter (lena.tif)
+10:57:31: Backup Code.java files at 10-57-31
+10:57:52: Start Test Wavelet Filter (impulse.tif)
+10:58:30: Start Test Wavelet Filter (lena.tif)
+11:02:31: Backup Code.java files at 11-02-31
+11:04:37: Start Test Downsampling (lena.tif)
+11:06:47: Start Test Upsampling (lena.tif)
+11:07:31: Backup Code.java files at 11-07-31
+11:08:10: Start Test Upsampling (lena.tif)
+11:09:17: Start Test Downsampling (lena.tif)
+11:09:19: Start Test Downsampling (Downsampling of lena.tif)
+11:09:21: Start Test Upsampling (Downsampling of Downsampling of lena.tif)
+11:09:22: Start Test Upsampling (Upsampling of Downsampling of Downsampling of lena.tif)
+11:09:40: Start Test Upsampling (lena.tif)
+11:09:41: Start Test Upsampling (Upsampling of lena.tif)
+11:09:42: Start Test Downsampling (Upsampling of Upsampling of lena.tif)
+11:09:43: Start Test Downsampling (Downsampling of Upsampling of Upsampling of lena.tif)
+11:12:31: Backup Code.java files at 11-12-31
+11:17:02: Start Wavelets Daubechies (lena.tif)
+11:17:31: Backup Code.java files at 11-17-31
+11:22:31: Backup Code.java files at 11-22-31
+11:23:19: Start Wavelets Daubechies (lena.tif)
+11:23:48: Start Wavelets Daubechies (lena.tif)
+11:24:08: Open image: C:\Users\broisin\Desktop\IP-LAB-6\images\mit-coef.tif
+11:24:17: Start Wavelets Daubechies (mit-coef.tif)
+11:26:21: Start Wavelets Daubechies (mit-coef.tif)
+11:27:08: Open image: C:\Users\broisin\Desktop\IP-LAB-6\images\lena.tif
+11:27:31: Backup Code.java files at 11-27-31
+11:29:43: Start Wavelets Daubechies (lena.tif)
+11:29:52: Start Wavelets Daubechies (lena.tif)
+11:32:31: Backup Code.java files at 11-32-31
+11:37:31: Backup Code.java files at 11-37-31
+11:39:22: Start Wavelets Daubechies (lena.tif)
+11:40:50: Start Wavelets Daubechies (Analysis (3) db1)
+11:42:31: Backup Code.java files at 11-42-31
+11:43:23: Start Wavelets Daubechies (lena.tif)
+11:44:50: Open image: C:\Users\broisin\Desktop\IP-LAB-6\images\mit-coef.tif
+11:44:52: Start Wavelets Daubechies (mit-coef.tif)
+11:47:31: Backup Code.java files at 11-47-31
+11:52:31: Backup Code.java files at 11-52-31
+11:53:11: Open image: C:\Users\broisin\Desktop\IP-LAB-6\images\doisneau.tif
+11:53:27: Start Wavelets Daubechies (doisneau.tif)
+11:54:12: Start Wavelets Daubechies (doisneau.tif)
+11:54:55: Start Wavelets Daubechies (doisneau.tif)
+11:55:30: Start Wavelets Daubechies (doisneau.tif)
+11:57:20: Start Wavelets Daubechies (mit-coef.tif)
+11:57:31: Backup Code.java files at 11-57-31
+12:02:31: Backup Code.java files at 12-02-31
+12:05:35: Start Wavelets Daubechies (doisneau.tif)
+12:07:15: Start Wavelets Daubechies (doisneau.tif)
+12:07:31: Backup Code.java files at 12-07-31
+12:12:31: Backup Code.java files at 12-12-31
+12:17:31: Backup Code.java files at 12-17-31
+12:17:51: Open image: C:\Users\broisin\Desktop\IP-LAB-6\images\doisneau.tif
+12:17:53: Start Wavelets Daubechies (doisneau.tif)
+12:18:56: Open image: C:\Users\broisin\Desktop\IP-LAB-6\images\doisneau-noise.tif
+12:19:01: Start Automatic Denoise (doisneau-noise.tif)
+12:19:16: Open image: C:\Users\broisin\Desktop\IP-LAB-6\images\cells.tif
+12:19:19: Start Automatic Denoise (cells.tif)
+12:21:02: Open image: C:\Users\broisin\Desktop\IP-LAB-6\images\doisneau.tif
+12:21:07: Start Wavelets Daubechies (doisneau.tif)
+12:22:12: Start Wavelets Daubechies (doisneau.tif)
+12:22:31: Backup Code.java files at 12-22-31
+12:24:43: Open image: C:\Users\broisin\Desktop\IP-LAB-6\images\doisneau.tif
+12:24:48: Start Wavelets Daubechies (doisneau.tif)
+12:26:33: Open image: C:\Users\broisin\Desktop\IP-LAB-6\images\mit-coef.tif
+12:26:36: Start Wavelets Daubechies (mit-coef.tif)
+12:27:31: Backup Code.java files at 12-27-31
+12:31:41: Start Wavelets Daubechies (mit-coef.tif)
+12:32:19: Start Wavelets Daubechies (doisneau.tif)
+12:32:31: Backup Code.java files at 12-32-31
+12:33:55: Start Test Convolution (impulse.tif)
+12:34:16: Start Test Convolution (lena.tif)
+12:34:48: Start Test Scaling Filter (impulse.tif)
+12:35:23: Start Test Scaling Filter (lena.tif)
+12:36:00: Start Test Wavelet Filter (impulse.tif)
+12:36:25: Start Wavelets Daubechies (lena.tif)
+12:36:27: Start Test Wavelet Filter (lena.tif)
+12:37:31: Backup Code.java files at 12-37-31
+12:38:24: Start Wavelets Daubechies (lena.tif)
+12:39:11: Start Wavelets Daubechies (mit-coef.tif)
+12:39:41: Start Wavelets Daubechies (doisneau.tif)
+12:42:31: Backup Code.java files at 12-42-31
+12:42:44: Start Wavelets Daubechies (doisneau.tif)
+12:47:31: Backup Code.java files at 12-47-31
+12:50:04: Start Wavelets Daubechies (doisneau.tif)
+12:50:32: Start Wavelets Daubechies (doisneau.tif)
+12:50:58: Start Wavelets Daubechies (doisneau.tif)
+12:51:38: Start Wavelets Daubechies (doisneau-noise.tif)
+12:51:41: Start Automatic Denoise (doisneau-noise.tif)
+12:52:31: Backup Code.java files at 12-52-31
+12:53:10: Start Wavelets Daubechies (doisneau.tif)
+12:54:35: Start Automatic Denoise (doisneau-noise.tif)
+12:55:16: Start Wavelets Daubechies (doisneau.tif)
+12:55:42: Start Automatic Denoise (doisneau-noise.tif)
+12:56:33: Open image: C:\Users\broisin\Desktop\IP-LAB-6\images\cells.tif
+12:56:36: Start Automatic Denoise (cells.tif)
+12:57:31: Backup Code.java files at 12-57-31
+13:00:23: Open image: C:\Users\broisin\Desktop\IP-LAB-6\images\lowlight.tif
+13:00:27: Start Automatic Denoise (lowlight.tif)
+13:02:31: Backup Code.java files at 01-02-31
+13:03:06: Start Wavelets Daubechies (doisneau.tif)
+13:04:33: Start Automatic Denoise (doisneau-noise.tif)
+13:06:06: Start Automatic Denoise (doisneau-noise.tif)
+13:07:10: Start Wavelets Daubechies (doisneau.tif)
+13:07:31: Backup Code.java files at 01-07-31
+13:07:52: Start Automatic Denoise (doisneau-noise.tif)
+13:08:16: Start Automatic Denoise (doisneau.tif)
+13:08:40: Start Automatic Denoise (cells.tif)
+13:10:04: Start Automatic Denoise (lowlight.tif)
+13:12:08: Upload C:\Users\broisin\Desktop\IP-LAB-6\plugins\src\Code.java on matthieu.broisin@epfl.ch 192.168.56.1
+13:12:08: Upload C:\Users\broisin\Desktop\IP-LAB-6\report.doc on matthieu.broisin@epfl.ch 192.168.56.1
+13:12:08: Upload C:\Users\broisin\Desktop\IP-LAB-6\history.txt on matthieu.broisin@epfl.ch 192.168.56.1
+13:12:08: Check Server 13:12:08 (128.178.130.204) 
+
+13:12:08: Upload on matthieu.broisin@epfl.ch 192.168.56.1
+13:12:16: Open URL
+13:12:31: Backup Code.java files at 01-12-31
+13:12:33: Open URL
+18:50:58: Launch IPLAB Developer Tools
+18:50:59: Backup Code.java files at 06-50-59
+18:51:00: Load Code.java
+18:51:00: Found 17 methods in Code.class
+18:51:00: Update Client 06:51:00 (192.168.56.1)
+18:51:07: Open image: \\files7\data\broisin\My Documents\MTMA2\IP-LAB-6\images\lena.tif
+18:51:14: Start Test Downsampling (lena.tif)
+18:51:22: Start Test Upsampling (lena.tif)
+18:51:31: Start Test Convolution (lena.tif)
+18:51:52: Start Test Wavelet Filter (lena.tif)
+18:52:11: Open image: \\files7\data\broisin\My Documents\MTMA2\IP-LAB-6\images\doisneau-noise.tif
+18:52:12: Open image: \\files7\data\broisin\My Documents\MTMA2\IP-LAB-6\images\doisneau.tif
+18:52:19: Start Automatic Denoise (doisneau-noise.tif)
+19:09:19: Launch IPLAB Developer Tools
+19:09:19: Backup Code.java files at 07-09-19
+19:09:19: Load Code.java
+19:09:20: Found 17 methods in Code.class
+19:09:20: Update Client 07:09:20 (192.168.56.1)
+19:10:25: Open image: \\files7\data\broisin\My Documents\MTMA2\IP-LAB-6\images\impulse.tif
+19:10:29: Start Test Wavelet Filter (impulse.tif)
+21:12:08: Launch IPLAB Developer Tools
+21:12:08: Backup Code.java files at 09-12-08
+21:12:10: Load Code.java
+21:12:10: Found 17 methods in Code.class
+21:12:11: Update Client 09:12:11 (192.168.56.1)
